@@ -1,2 +1,2 @@
-# lib
-My competitive programming library. 
+# CP library
+My competitive programming library, all written in C++.
