@@ -48,7 +48,7 @@ void bfs01(int root) {
 	for(int i = 1; i <= n; i++) cout << dis[i] << ' '; cout << '\n';  
 }
 
-void bfsMultisource(const vector<int> &s) { // assuming all edge has weight = 1. 
+void bfsMultisource(const vector<int> &s) {
 	assert(!s.empty()); 
 	for(int i = 1; i <= n; i++) dis[i] = INF; 
 	for(auto u : s) dis[u] = 0; 
