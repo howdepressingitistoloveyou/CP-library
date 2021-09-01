@@ -1,5 +1,5 @@
 // A file containing important bitset operations, because I easily forget bitset member functions and it would
-// be cringe if that happened in a contest. 
+// be cringe if that happens in a contest. 
 #include <bits/stdc++.h>
 using namespace std;
 
